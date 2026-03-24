@@ -1,0 +1,25 @@
+{
+  "name": "tabnews",
+  "version": "1.0.0",
+  "description": "Clone to TabNews para fins de estudo.",
+  "homepage": "https://github.com/luizfvital/tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/luizfvital/tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizfvital/tabnews.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
